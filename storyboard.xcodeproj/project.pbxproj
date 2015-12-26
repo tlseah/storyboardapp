@@ -14,6 +14,8 @@
 		72D245521C2E4B2700071D9B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72D245501C2E4B2700071D9B /* LaunchScreen.storyboard */; };
 		72D2455D1C2E4B2700071D9B /* storyboardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D2455C1C2E4B2700071D9B /* storyboardTests.swift */; };
 		72D245681C2E4B2700071D9B /* storyboardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72D245671C2E4B2700071D9B /* storyboardUITests.swift */; };
+		72D245761C2E590000071D9B /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 72D245751C2E590000071D9B /* SagradaFamilia.jpeg */; };
+		72D245781C2E5E0100071D9B /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 72D245771C2E5E0100071D9B /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		72D245631C2E4B2700071D9B /* storyboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = storyboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		72D245671C2E4B2700071D9B /* storyboardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = storyboardUITests.swift; sourceTree = "<group>"; };
 		72D245691C2E4B2700071D9B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		72D245751C2E590000071D9B /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		72D245771C2E5E0100071D9B /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +105,8 @@
 				72D245491C2E4B2700071D9B /* ViewController.swift */,
 				72D2454B1C2E4B2700071D9B /* Main.storyboard */,
 				72D2454E1C2E4B2700071D9B /* Assets.xcassets */,
+				72D245771C2E5E0100071D9B /* AlbertEinsteinStamp.jpg */,
+				72D245751C2E590000071D9B /* SagradaFamilia.jpeg */,
 				72D245501C2E4B2700071D9B /* LaunchScreen.storyboard */,
 				72D245531C2E4B2700071D9B /* Info.plist */,
 			);
@@ -230,6 +236,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				72D245521C2E4B2700071D9B /* LaunchScreen.storyboard in Resources */,
+				72D245761C2E590000071D9B /* SagradaFamilia.jpeg in Resources */,
+				72D245781C2E5E0100071D9B /* AlbertEinsteinStamp.jpg in Resources */,
 				72D2454F1C2E4B2700071D9B /* Assets.xcassets in Resources */,
 				72D2454D1C2E4B2700071D9B /* Main.storyboard in Resources */,
 			);
